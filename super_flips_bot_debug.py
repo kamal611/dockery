@@ -102,6 +102,7 @@ schedule.every(3).minutes.do(check_offerup)
 schedule.every(4).minutes.do(check_craigslist)
 
 print("✅ Super Flips Docker Bot запущен!")
+print("🔥 Вошли в __main__")
 
 if __name__ == '__main__':
     check_facebook()
