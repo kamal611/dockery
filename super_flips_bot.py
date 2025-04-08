@@ -1,1 +1,0 @@
-print("✅ Super Flips Docker Bot запущен!")
